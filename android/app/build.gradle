@@ -13,5 +13,5 @@ android {
 
 dependencies {
   compile 'com.facebook.react:react-native:+'
-  compile files('main/libs/libammsdk.jar')
+  compile files('src/main/libs/libammsdk.jar')
 }
